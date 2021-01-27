@@ -1,0 +1,235 @@
+html, body, .body_wrapper, .notices li, .floatcontainer, .navtabs, a.navtab, .navbar, .navtabs li, html, .navtabs li a.navtab, .blockbody .blockrow, table, #disp .side, .vbcat_right .title, #sidebar_container > ul, #sidebar_container .blockrow, .vbcat_middle, .vbcat_center, table.vbs_forumrow, #forums, .forums, tr.vbs_forumrow, .vbs_forumrow td, .vbs_forumhead td, .below_main, .below_body, .footer_copyright, .footer_morecopyright, #pagetitle h1, .vbs_forumdata.alt2.sticky, .formcontrols > :first-child, .blockbody.formcontrols, .postbitlegacy .postrow.has_after_content, .postbitlegacy .userinfo, .postbitlegacy , .postbitlegacy dl.userinfo_extra dd, .postbitlegacy .postdetails, .postbitlegacy .postbody, .postbitlegacy .postfoot .textcontrols, #thread_navlink, .vbulletin_html, .navtabs li.selected li:hover a.popupctrl.active, .navtabs li.selected li a.popupctrl.active, .navtabs .popupbody, .navtabs li.selected .popupbody li a, #main_content, table tbody tr td, .content_box_top, .box_top, .paypal_box_top, #activitylist {
+    background: #0f0f0f;
+    color: white;
+}
+
+.vbcat_right, .vbcat_right1, .vbcat_left, .vbcat_left1, .vbcat_bottom_right, .vbcat_bottom_left, .body_left, .body_right, .below_left, .below_right, .navtabs li.selected li a.popupctrl, .content_box_content, .content_box_bottom, .footer_bar, #nav, .box_bottom, .box_content li, .paypal_box_bottom, .paypal_box_content, .above_body, #usercp_nav .blockrow * a:hover {
+    background: #0f0f0f;
+}
+
+.wgo_block .time, .time, .description, .navtabs li.selected li a:hover, .postbitlegacy .postrow, .eventbit .eventrow, .postbitdeleted .postrow, .postbitignored .postrow, .toplinks ul.isuser li a:hover, a.navtab font, .content_box_top, .footer, .box_content li a, #nav li a, li.activitybit, #usercp_nav .blockbody, #usercp_nav .blockrow, #usercp_nav .blocksubhead, .forumhead {
+    color: white;
+}
+
+.content_box_content, .box_content li, .paypal_box_content, #main_content {
+	box-shadow: 0px -1px 0px 0px rgba(255,255,255,1);
+}
+
+body a:hover, body a:hover .time, body a:hover .shade, body a:hover .understate, #nav li a:hover, #usercp_nav .blockrow * a:hover {
+    color: #d6dce3;
+    text-decoration: underline;
+}
+
+body a, #pagetitle, #pagetitle .description, .toplinks ul.isuser li a, .navtabs li.selected li a, .navtabs li.selected li, .navtabs li.selected li a.popupctrl, .navbar_advanced_search li a {
+	color: #9a9fa6;
+}
+
+.logo-image, .inlineimg, .category_description, p.detail img, dl.detail img, .hr.vbsig.legacy, #logo, ul.isuser li a img {
+    visibility: hidden;
+}
+
+.toplinks ul.isuser li.welcomelink {
+    color: #d6dce3;
+}
+
+.vbcat1_bottom, .vbcat, #logo {
+	height: 0px;
+}
+
+#sidebar_container > ul {
+	height: 183px;
+}
+
+.above_threadlist .threadpagenav .threadpagestats, .shade, .forumhead .title a, .vbcat_middle .title, .above_postlist .pagination_top .postpagestats, .postbitlegacy .lastedited, .footer_time {
+	color: white;
+}
+
+#pagetitle, #disp .side1 .details, #disp .side2 .details {
+    background: #0f0f0f;
+    color: white;
+    border: none;
+	border-left: 7px solid #15a7ee;
+}
+
+.mainborder {
+	border-top: 1px solid #0b0b0b;
+}
+
+#disp .side1 .details, #disp .side2 .details {
+	margin-left: 8px;
+}
+
+.vbcat_left {
+    visibility: hidden;
+    margin-left: -3px;
+    margin-right: -1px;
+}
+
+.blocksubhead {
+	border-bottom: 1px solid #0b0b0b;
+}
+
+#thread_inlinemod_form {
+    border-top: 1px solid #0b0b0b;
+}
+
+.postbitlegacy dl.userinfo_extra dd {
+	border: none;
+    box-shadow: 0px 0px 1px 2px rgba(56,56,56,1);
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.postbitlegacy dl.userinfo_extra dt {
+	margin-top: 13px;
+}
+
+.postbitlegacy .after_content {
+	border-top: 1px solid #0b0b0b;
+	margin-left: 0px;
+}
+
+.navtabs li {
+	border-top: 1px solid #0b0b0b;
+    margin-top: -1px;
+}
+
+.navtabs li.selected a.navtab {
+    color: white;
+	border-top: 1px solid #0b0b0b;
+    border-left: 1px solid #0b0b0b;
+    border-right: 1px solid #0b0b0b;
+    margin-top: -2px;
+    margin-right: -1px;
+    margin-left: -1px;
+}
+
+.body_wrapper {
+    border-left: 0px solid #0b0b0b;
+    border-right: 0px solid #0b0b0b;
+}
+
+.navtabs li.selected a.navtab {
+    background: #0b0b0b;
+    padding-top: 5px;
+}
+
+.blocksubhead font b, .blocksubhead b font, .forumtitle a span {
+	color: #d53838;
+}
+
+.navtabs li.selected li a.popupctrl {
+	padding-right: 0px;
+}
+
+.bbcode_container div.bbcode_quote {
+	background: #111;
+    border: 1px solid #0b0b0b;
+}
+
+.bbcode_container .bbcode_quote_container{
+    display: none;
+}
+
+.navtabs li a.navtab:hover {
+	background: #151515;
+    color: white;
+}
+
+.box_content {
+	width: 100%;
+}
+
+.box_content li {
+	width: 235px;
+}
+
+.nav_left {
+	padding-left: 0;
+}
+
+.nav_left a {
+	margin-left: 2px;
+}
+
+li#navbar_notice_5 {
+    border-bottom: 0px solid #000;
+}
+
+#usercp_nav .block {
+    background: none;
+    clear: both;
+    font-size: 12px;
+    -moz-border-radius-topright: 0;
+    -moz-border-radius-topleft: 0;
+    -webkit-border-top-right-radius: 0;
+    -webkit-border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    padding-bottom: 0;
+}
+
+#usercp_nav .blockbody, .blocksubhead, #usercp_nav .blocksubhead, .blockbody.settings_form_border {
+	border: 0px solid #000;
+}
+
+.formcontrols .blocksubhead {
+	border-top: 1px solid #0b0b0b;
+}
+
+.blockbody.formcontrols .blockrow .rightcol table td {
+	padding-right: 25px;
+}
+
+.globalsearch .textboxcontainer span {
+	padding-right: 3px;
+}
+
+.blockbody.formcontrols .blockrow .rightcol table td ul {
+	width: 125%;
+}
+
+table.vbs_forumrow {
+    border-color: #0b0b0b #0b0b0b #0b0b0b !important;
+}
+
+.content_poster, li.activitybit, .newactivity, .moreactivity, #usercp_nav .blockbody, #usercp_nav .blockrow, #usercp_nav .blockhead, #usercp_nav .blocksubhead, #usercp_nav .blockrow .active, .blockhead, .blocksubhead, #sidebar_container .blocksubhead, .subforumhead {
+	background: #111;
+}
+
+.activitystream li.activitybit, .newactivity, .moreactivity, #usercp_nav .block, #usercp_content .block, .formcontrols, .blockhead, .notices li, #disp #logged, #sidebar_container > ul, #sidebar_container .blockbody, .subforumhead {
+	border: 1px solid #0b0b0b;
+}
+
+#vsa_fh_stats, .mgc_cb_evo_block .blockbody, .vbs_forumrow table {
+    border-left: 1px solid #0b0b0b;
+    border-right: 1px solid #0b0b0b;
+    border-bottom: 1px solid #0b0b0b;
+}
+
+#sidebar_container .blocksubhead {
+    border-top: 1px solid #0b0b0b;
+    border-left: 1px solid #0b0b0b;
+    border-right: 1px solid #0b0b0b;
+}
+
+.claro, .globalsearch .buttoncontainer {
+    border-left: 1px solid #0b0b0b;
+    border-right: 1px solid #0b0b0b;
+}
+
+.mgc_cb_evo_block .blocksubhead, .above_body {
+    border-bottom: 1px solid #0b0b0b;
+}
+
+.mgc_cb_evo_block .editor, .wgo_subblock, .navtabs ul, .globalsearch .textboxcontainer span, .globalsearch .buttoncontainer span {
+    border-top: 1px solid #0b0b0b;
+}
+
+.borderright, li#vbtab_whatsnew, .navtabs li {
+    border-right: 1px solid #0b0b0b;
+}
+
+.borderleft, #disp .side, .wgo_subblock .big_icons.alt2, .vbs_forumrow td, .globalsearch .textboxcontainer, .navtabs li:first-child {
+    border-left: 1px solid #0b0b0b;
+}
