@@ -52,7 +52,7 @@ body a, #pagetitle, #pagetitle .description, .toplinks ul.isuser li a, .navtabs 
 }
 
 .mainborder {
-	border-top: 1px solid #0b0b0b;
+	border-top: thin solid #0b0b0b;
 }
 
 #disp .side1 .details, #disp .side2 .details {
@@ -66,11 +66,11 @@ body a, #pagetitle, #pagetitle .description, .toplinks ul.isuser li a, .navtabs 
 }
 
 .blocksubhead {
-	border-bottom: 1px solid #0b0b0b;
+	border-bottom: thin solid #0b0b0b;
 }
 
 #thread_inlinemod_form {
-    border-top: 1px solid #0b0b0b;
+    border-top: thin solid #0b0b0b;
 }
 
 .postbitlegacy dl.userinfo_extra dd {
@@ -85,20 +85,20 @@ body a, #pagetitle, #pagetitle .description, .toplinks ul.isuser li a, .navtabs 
 }
 
 .postbitlegacy .after_content {
-	border-top: 1px solid #0b0b0b;
+	border-top: thin solid #0b0b0b;
 	margin-left: 0px;
 }
 
 .navtabs li {
-	border-top: 1px solid #0b0b0b;
+	border-top: thin solid #0b0b0b;
     margin-top: -1px;
 }
 
 .navtabs li.selected a.navtab {
     color: white;
-	border-top: 1px solid #0b0b0b;
-    border-left: 1px solid #0b0b0b;
-    border-right: 1px solid #0b0b0b;
+	border-top: thin solid #0b0b0b;
+    border-left: thin solid #0b0b0b;
+    border-right: thin solid #0b0b0b;
     margin-top: -2px;
     margin-right: -1px;
     margin-left: -1px;
@@ -124,7 +124,7 @@ body a, #pagetitle, #pagetitle .description, .toplinks ul.isuser li a, .navtabs 
 
 .bbcode_container div.bbcode_quote {
 	background: #111;
-    border: 1px solid #0b0b0b;
+    border: thin solid #0b0b0b;
 }
 
 .bbcode_container .bbcode_quote_container{
@@ -174,7 +174,7 @@ li#navbar_notice_5 {
 }
 
 .formcontrols .blocksubhead {
-	border-top: 1px solid #0b0b0b;
+	border-top: thin solid #0b0b0b;
 }
 
 .blockbody.formcontrols .blockrow .rightcol table td {
@@ -202,34 +202,34 @@ table.vbs_forumrow {
 }
 
 #vsa_fh_stats, .mgc_cb_evo_block .blockbody, .vbs_forumrow table {
-    border-left: 1px solid #0b0b0b;
-    border-right: 1px solid #0b0b0b;
-    border-bottom: 1px solid #0b0b0b;
+    border-left: thin solid #0b0b0b;
+    border-right: thin solid #0b0b0b;
+    border-bottom: thin solid #0b0b0b;
 }
 
 #sidebar_container .blocksubhead {
-    border-top: 1px solid #0b0b0b;
-    border-left: 1px solid #0b0b0b;
-    border-right: 1px solid #0b0b0b;
+    border-top: thin solid #0b0b0b;
+    border-left: thin solid #0b0b0b;
+    border-right: thin solid #0b0b0b;
 }
 
 .claro, .globalsearch .buttoncontainer {
-    border-left: 1px solid #0b0b0b;
-    border-right: 1px solid #0b0b0b;
+    border-left: thin solid #0b0b0b;
+    border-right: thin solid #0b0b0b;
 }
 
 .mgc_cb_evo_block .blocksubhead, .above_body {
-    border-bottom: 1px solid #0b0b0b;
+    border-bottom: thin solid #0b0b0b;
 }
 
 .mgc_cb_evo_block .editor, .wgo_subblock, .navtabs ul, .globalsearch .textboxcontainer span, .globalsearch .buttoncontainer span {
-    border-top: 1px solid #0b0b0b;
+    border-top: thin solid #0b0b0b;
 }
 
 .borderright, li#vbtab_whatsnew, .navtabs li {
-    border-right: 1px solid #0b0b0b;
+    border-right: thin solid #0b0b0b;
 }
 
 .borderleft, #disp .side, .wgo_subblock .big_icons.alt2, .vbs_forumrow td, .globalsearch .textboxcontainer, .navtabs li:first-child {
-    border-left: 1px solid #0b0b0b;
+    border-left: thin solid #0b0b0b;
 }
